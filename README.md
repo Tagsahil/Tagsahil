@@ -8,10 +8,10 @@ Skills: Swift / JS / HTML / CSS
 - 🤔 I’m looking for help with React 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tagsahil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sahil-tagunde-6a9394154/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tagsahil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](tagundesahil45@gmail.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width='22px'>](https://github.com/Tagsahil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width='22px'>](https://www.linkedin.com/in/sahil-tagunde-6a9394154/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' width='22px'>](https://twitter.com/tagsahil) ![Profile views](https://gpvc.arturio.dev/Tagsahil)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tagsahil)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tagsahil&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/Tagsahil)  
+
