@@ -15,8 +15,7 @@
 
 
 ![Sahil GitHub stats](https://github-readme-stats.vercel.app/api?username=Tagsahil&theme=midnight-purple&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tagsahil&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tagsahil&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) 
 #### My Stack
 ##### Languages:
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/>
