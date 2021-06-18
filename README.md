@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning React 
 - 🤔 I’m looking for help with React 
 
-[<img align="left" alt="Tagsahil | Github" width="22px" src="./githu.svg" style="max-width:100%;">](https://github.com/Tagsahil)        [<img align="left" alt="Tagsahil | LinkedIn" width="22px" src="./linkedin.svg" style="max-width:100%;">](https://www.linkedin.com/in/sahil-tagunde-6a9394154/)  [<img align="left" alt="Tagsahil | Twitter" width="22px" src="./twitter.svg" style="max-width:100%;">](https://twitter.com/tagsahil) [<img align="left" alt="Tagsahil | Github" width="22px" src="./gmail.svg" style="max-width:100%;">](mailto:tagundesahil45@gmai.com?subject=[GitHub]%20Source%20Han%20Sans) ![Profile views](https://gpvc.arturio.dev/Tagsahil)  
+[<img align="left" alt="Tagsahil | Github" width="22px" src="./github.svg" style="max-width:100%;">](https://github.com/Tagsahil)        [<img align="left" alt="Tagsahil | LinkedIn" width="22px" src="./linkedin.svg" style="max-width:100%;">](https://www.linkedin.com/in/sahil-tagunde-6a9394154/)  [<img align="left" alt="Tagsahil | Twitter" width="22px" src="./twitter.svg" style="max-width:100%;">](https://twitter.com/tagsahil) [<img align="left" alt="Tagsahil | Github" width="22px" src="./gmail.svg" style="max-width:100%;">](mailto:tagundesahil45@gmai.com?subject=[GitHub]%20Source%20Han%20Sans) ![Profile views](https://gpvc.arturio.dev/Tagsahil)  
 
 ![Sahil GitHub stats](https://github-readme-stats.vercel.app/api?username=Tagsahil&theme=great-gatsby&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tagsahil&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
