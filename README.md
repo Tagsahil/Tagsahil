@@ -22,5 +22,3 @@
 ##### DevOps:
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
-
-https://img.shields.io/badge/-Js-61DAFB?logo=javascript&logoColor=white&logoWidth=30
