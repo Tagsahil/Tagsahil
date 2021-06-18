@@ -1,6 +1,6 @@
 ### Hi, I'm Sahil Tagunde :wave:
-[<img align="left" alt="Tagsahil | LinkedIn" width="22px" src="./linkedin.svg" >][linkedin]
-[<img align="left" alt="Tagsahil | Twitter" width="22px" src="./twitter.svg" >][twitter]
+[<img align="left" alt="Tagsahil | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="Tagsahil | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [linkedin]: https://www.linkedin.com/in/sahil-tagunde-6a9394154/
 [twitter]: https://twitter.com/tagsahil
 
