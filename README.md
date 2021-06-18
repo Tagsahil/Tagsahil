@@ -1,8 +1,7 @@
 # Hi there :wave: , my name is Sahil Tagunde
 #### I am a self-taught developer.
-###### I like to design and implement it.
+##### I like to design and implement it.
 
-Skills: Swift / JS / HTML / CSS
 
 - 🌱 I’m currently learning React 
 - 🤔 I’m looking for help with React 
