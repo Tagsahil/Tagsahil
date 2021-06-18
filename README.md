@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Sahil Tagunde :wave:
+[<img align="left" alt="Tagsahil | LinkedIn" width="22px" src="./">]
 
 <!--
 **Tagsahil/Tagsahil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
