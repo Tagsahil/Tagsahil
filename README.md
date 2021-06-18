@@ -1,4 +1,4 @@
-# Hi there < img src="https://tenor.com/blOVi.gif" width="30px"> , my name is Sahil Tagunde
+# Hi there <img src="https://tenor.com/blOVi.gif" width="30px"> , my name is Sahil Tagunde
 ### I am a self-taught developer.
 ##### I like to design and implement it in reality.
 
