@@ -1,4 +1,4 @@
-### Hi there :wave:, my name is Sahil Tagunde
+### Hi there :wave: , my name is Sahil Tagunde
 #### I am a self-taught developer.
 I like to design and implement it.
 
