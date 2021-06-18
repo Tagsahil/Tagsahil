@@ -15,5 +15,6 @@ Skills: Swift / JS / HTML / CSS
 
 #### My Stack
 ##### Languages:
+https://img.shields.io/badge/JavaScript
 
 
