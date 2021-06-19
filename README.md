@@ -1,6 +1,6 @@
 <div>
 <h1 align="center">
-  Hi there <img src="tenor.gif" width="30px">, </br> my name is Sahil Tagunde.
+  Hey there <img src="tenor.gif" width="30px">, </br> my name is Sahil Tagunde.
 </h1>
 
 <div align="right">
