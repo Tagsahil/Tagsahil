@@ -8,7 +8,7 @@
 </div>
 
 <div align="left">
-  <h3> I am a self-taught developer.</h3> 
+  <h3> I am a self-taught programmer.</h3> 
   <p> I like to design and implement it in reality.</p>
 
 - 🌱 I’m currently learning React 
