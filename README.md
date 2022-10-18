@@ -9,5 +9,5 @@
 - 🤔 I’m looking for help with backend stuff.
 - 💬 Ask me about tech related stuff.
 
- ![](https://komarev.com/ghpvc/?username=Tagsahil&color=brightgreen&style=flat)
+[<img align="left" alt="Tagsahil | LinkedIn" width="25px" src="./linkedin.svg" style="max-width:100%;">](https://www.linkedin.com/in/sahil-tagunde-6a9394154/)  [<img align="left" alt="Tagsahil | Twitter" width="25px" src="./twitter.svg" style="max-width:100%;">](https://twitter.com/tagsahil) [<img align="left" alt="Tagsahil | Github" width="25px" src="./gmail.svg" style="max-width:100%;">](mailto:tagundesahil45@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) ![](https://komarev.com/ghpvc/?username=Tagsahil&color=brightgreen&style=flat)
 </div>
